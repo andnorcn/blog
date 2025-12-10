@@ -1,2 +1,2 @@
 # blog
-A blog website.
+A blog website focus on simulation.
